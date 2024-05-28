@@ -1,0 +1,323 @@
+﻿  Assets.cpp
+  Cell.cpp
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,32): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,26): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+  Main.cpp
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,32): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,26): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+  Maps.cpp
+  Map_Editor.cpp
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,32): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\C++\Pantir_MapRedactor\Map_Editor.h(64,26): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int32_t
+          ]
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(168,61): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(168,44): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(168,29): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(168,19): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(177,65): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(177,51): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(177,31): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(177,16): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(194,30): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(194,19): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(195,33): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(195,19): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(236,59): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(236,50): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(236,37): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(236,21): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,119): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,101): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,82): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,64): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,45): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(237,27): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,119): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,101): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,82): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,64): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,45): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(238,27): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(240,70): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(240,52): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(240,34): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(240,20): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(244,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(244,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(244,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(244,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(245,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(245,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(245,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(245,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(246,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(246,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(246,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(246,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(247,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(247,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(247,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(247,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(252,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(252,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(252,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(252,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(253,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(253,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(253,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(253,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(254,78): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(254,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(254,41): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(254,23): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(257,75): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(257,68): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(257,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(257,32): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(259,116): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(259,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(259,60): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(259,32): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(267,123): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(275,94): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(275,66): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(275,50): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(275,22): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(292,74): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(292,63): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(292,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(292,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,141): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,117): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,97): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,73): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,53): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(295,29): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,139): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,115): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,95): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,71): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,51): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(298,29): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(301,89): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(301,67): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(301,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(301,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(304,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(304,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(304,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(304,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(305,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(305,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(305,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(305,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(306,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(306,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(306,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(306,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(307,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(307,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(307,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(307,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(312,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(312,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(312,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(312,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(313,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(313,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(313,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(313,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(314,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(314,69): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(314,49): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(314,25): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(530,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(531,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(565,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(566,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(615,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(615,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(620,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(620,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(624,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(624,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(628,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(628,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(639,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(639,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(651,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(651,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(667,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(668,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(710,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(711,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(728,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(729,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(745,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(746,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(761,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(762,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(777,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(777,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(784,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(784,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(794,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(795,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(807,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(811,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(817,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(821,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(853,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(853,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(876,66): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(876,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(909,68): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(909,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(945,68): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(945,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(983,66): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(983,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1012,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1012,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1037,65): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1037,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1046,116): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1046,105): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1046,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1046,46): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,268): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,225): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,181): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,137): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1049,50): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,268): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,224): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,181): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,137): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,93): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1053,50): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1058,174): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1058,132): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1058,89): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1058,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1062,181): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1062,137): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1062,92): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1062,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1063,178): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1063,135): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1063,91): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1063,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1064,176): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1064,134): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1064,91): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1064,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1065,178): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1065,135): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1065,91): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1065,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1069,174): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1069,131): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1069,89): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1069,46): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1070,176): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1070,133): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1070,90): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1070,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1071,176): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1071,133): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1071,90): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1071,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1091,111): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1091,100): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1091,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1091,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,251): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,211): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,171): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,131): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,91): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1094,51): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,251): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,211): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,171): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,131): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,91): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1097,51): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1100,169): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1100,129): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1100,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1100,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1103,168): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1103,128): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1103,87): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1103,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1104,169): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1104,129): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1104,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1104,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1105,169): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1105,129): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1105,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1105,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1106,169): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1106,129): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1106,88): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1106,48): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1111,167): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1111,127): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1111,87): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1111,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1112,167): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1112,127): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1112,87): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1112,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1113,167): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1113,127): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1113,87): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1113,47): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1201,144): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1201,107): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1201,84): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1201,45): warning C4244: аргумент: преобразование "double" в "int32_t", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1412,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1413,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\C++\Pantir_MapRedactor\Map_Editor.cpp(1482,151): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  olcPixelGameEngine.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 2036 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Pantir_MapRedactor.vcxproj -> D:\C++\Pantir_MapRedactor\x64\Release\Pantir_MapRedactor.exe
